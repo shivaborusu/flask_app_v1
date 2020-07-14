@@ -1,0 +1,375 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 21:39:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 21:43:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 21:45:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:02:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside upload_input endpoint
+INFO:root:Index(['DIM_LOC_ID', 'SRC_KY', 'LOC_NUM', 'LOC_NM', 'TIV_RC', 'STREET_ADDRESS',
+       'POSTAL_CD', 'CITY_NM', 'COUNTY', 'STATECODE', 'ISO_CNTRY_CD',
+       'ISO_CNTRY_NM', 'GEO_CDNG_PRCSN_NM', 'GEO_CDNG_PRCSN_SCHEME',
+       'GEO_CDNG_PRCSN_CD', 'LOC_LATTD_IN_DEGRS', 'LOC_LNGTD_IN_DEGRS'],
+      dtype='object')
+INFO:root:Inside get URL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:02:40] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/shivaborusu/Desktop/flask_app_v1/app.py', reloading
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:20:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:22:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:23:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:26:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 22:28:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:03:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:04:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:05:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:05:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:06:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:06:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:07:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/shivaborusu/Desktop/flask_app_v1/app.py', reloading
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:29:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside upload_input endpoint
+INFO:root:Index(['DIM_LOC_ID', 'SRC_KY', 'LOC_NUM', 'LOC_NM', 'TIV_RC', 'STREET_ADDRESS',
+       'POSTAL_CD', 'CITY_NM', 'COUNTY', 'STATECODE', 'ISO_CNTRY_CD',
+       'ISO_CNTRY_NM', 'GEO_CDNG_PRCSN_NM', 'GEO_CDNG_PRCSN_SCHEME',
+       'GEO_CDNG_PRCSN_CD', 'LOC_LATTD_IN_DEGRS', 'LOC_LNGTD_IN_DEGRS'],
+      dtype='object')
+INFO:root:Inside get URL
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): dev.cloud.api.aig.net:443
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2020 23:30:06] "[37mPOST /uploader HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 139-482-890
+INFO:root:Inside home endpoint
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:53:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:Inside upload_input endpoint
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[1m[35mPOST /uploader HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Jul/2020 12:55:23] "[37mGET /uploader?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
